@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaz1697/postgreSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaz1697/postgreSQL/issues"
+  },
+  "homepage": "https://github.com/gaz1697/postgreSQL#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1",
+    "typescript": "^4.9.4"
+  }
+}
